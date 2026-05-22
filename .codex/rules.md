@@ -8,4 +8,5 @@ Read before repo work.
 - New rules must be short, trigger-based, and listed below.
 
 Read next when matching:
+- Code change: `.codex/code-rules.md`
 - Git: `.codex/git-workflow.md`
