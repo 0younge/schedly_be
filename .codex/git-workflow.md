@@ -23,8 +23,5 @@ Use one issue, branch, commit set, PR, review, and merge per task. Read only the
 
 ## Guardrails
 
-- Prefer concise rules and outputs; read only relevant files to save tokens without losing accuracy.
-- Keep secrets in env/local files; update `.gitignore` before adding sensitive config and commit examples only.
 - Do not mix unrelated work.
-- Preserve user changes; never revert unrelated edits.
 - Document skipped verification in the PR.
