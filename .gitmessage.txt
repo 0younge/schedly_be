@@ -1,0 +1,13 @@
+<type>: <short summary>
+
+Why:
+- 
+
+What:
+- 
+
+Verification:
+- 
+
+Refs:
+- 
