@@ -1,18 +1,10 @@
-## Review Focus
+## Focus
 
 - Correctness:
 - Security / auth:
-- Data / API contracts:
 - Tests:
-- Maintainability:
 
 ## Findings
-
-- 
-
-## Verification
-
-- 
 
 ## Decision
 

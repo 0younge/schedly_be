@@ -1,13 +1,9 @@
 <type>: <short summary>
 
 Why:
-- 
 
 What:
-- 
 
-Verification:
-- 
+Verify:
 
 Refs:
-- 

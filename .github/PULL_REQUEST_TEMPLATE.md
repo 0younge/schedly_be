@@ -1,25 +1,13 @@
 ## Summary
 
-- 
-
-## Why
-
-- 
-
 ## Changes
-
-- 
 
 ## Verification
 
 - [ ] Ran relevant local checks
-- [ ] Checked affected files manually
-- [ ] Documented skipped checks, if any
+- [ ] Reviewed diff
+- [ ] Noted skipped checks
 
-## Risk / Follow-Up
-
-- 
-
-## Issue
+## Risk
 
 Closes #
