@@ -51,3 +51,4 @@ secrets/
 **/application-local.yml
 **/application-secret.properties
 **/application-secret.yml
+docs/supabase-setup.md
