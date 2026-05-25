@@ -37,4 +37,10 @@ public class ApiExceptionHandler {
 			.body(ApiErrorResponse.of("VALIDATION_ERROR", message));
 	}
 
+	@ExceptionHandler(IllegalArgumentException.class)
+	ResponseEntity<ApiErrorResponse> handleIllegalArgument(IllegalArgumentException exception) {
+		return ResponseEntity.badRequest()
+			.body(ApiErrorResponse.of("INVALID_REQUEST", exception.getMessage()));
+	}
+
 }
